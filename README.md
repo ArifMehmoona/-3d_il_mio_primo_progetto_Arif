@@ -1,4 +1,4 @@
-# -3d_il_mio_primo_progetto_Arif
+# 3d_il_mio_primo_progetto_Arif
 # IL MIO PRIMO PROGETTO
 ## mi sto annoiandooo
 
